@@ -70,3 +70,19 @@ input[type=text] {
 	color: #ffffff !important;
 	
 }
+.custom_btn {
+	width: 60px;
+    height: 60px;
+    float: left;
+    padding: 0;
+    margin: 5px;
+    box-sizing: border-box;
+    background: #f7d2e0;
+    border: none;
+    font-size: 30px;
+    line-height: 30px;
+    border-radius: 50%;
+    font-weight: 700;
+    color: #5e585d;
+    cursor: pointer;
+}
